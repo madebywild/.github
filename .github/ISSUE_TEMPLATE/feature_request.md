@@ -16,6 +16,6 @@ Brief explanation of the feature.
 ## Definition of done
 A clear and concise description of what you expected to happen in order to consider the feature completed.
 
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+- Task 1
+- Task 2
+- Task 3
